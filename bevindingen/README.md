@@ -1,3 +1,1 @@
-# placeholder bevindingen  
-
-Hier worden op termijn bevindingen op BRT.Next geplaatst
+Hier zijn de bevindingen op BRT.Next te vinden
