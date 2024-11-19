@@ -3,7 +3,7 @@
 |   Aad Vuyk       | Gemeente Amsterdam        | 
 | Anne Fintelman | Ministerie van Defensie      | 
 | Damir Brnobic    | Ministerie van Volkshuisvesting en Ruimtelijke Ordening   |
-|  Daniel te Winkel        |   Kadaster      | 
+|  Daniël te Winkel        |   Kadaster      | 
 | Gerard Nienhuis | Provincie Overijssel     |
 | Jan Bakermans    | Kadaster    |
 |  Jan-Willem van Aalst        |   Imergis      | 
