@@ -13,3 +13,4 @@
 | Pieter Dijkstra   | Kadaster   |
 | Richard Witmer    | Kadaster    |
 | Wilmar Visschers| Kadaster     |
+| Frank Steggink| SPOTInfo     |
