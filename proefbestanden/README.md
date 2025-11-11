@@ -1,10 +1,3 @@
-# Proefbestand november 2025
+# Proefbestanden
 
-Hier wordt het proefbestand van het proefgebied Apeldoorn en omstreken gepubliceerd. 
-
-
-De kenmerken van deze proeflevering zijn:
-nader te beschrijven
-
-De opmerkingen vooraf zijn: 
-nader te beschrijven 
+Hier worden de proefbestanden vanuit het project gepubliceerd. Het eerstvolgende proefbestand komt beschikbaar in november 2025. 
