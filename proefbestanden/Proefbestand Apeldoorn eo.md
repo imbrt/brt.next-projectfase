@@ -4,14 +4,14 @@ Deze pagina bevat de levering van proefgebied Apeldoorn en omstreken van BRT.Nex
 **Tussentijds resultaat**   
 De BRT.Next is nog volop in ontwikkeling. Deze proeflevering van Apeldoorn en omstreken geeft een goed beeld van waar wij nu staan.
 
-Het topografisch bestand bestaat uit het gbeied dat zwart is omkaderd op onderstaande kaart 
+Het topografisch bestand bestaat uit het gebied dat zwart is omkaderd op onderstaande kaart 
 <img width="734" height="926" alt="image" src="https://github.com/user-attachments/assets/9a66b056-bfb5-428e-9302-9953d7340c87" />
 
 Op de kaart hieronder is te zien welke negen kaartbladen als cartografische weergave beschikbaar zijn:
 <img width="944" height="684" alt="image" src="https://github.com/user-attachments/assets/7b1e0350-dcd6-498c-ab7c-56a7b383f960" />
 
 **Actualiteit**  
-De proeflevering geeft de toestand van 1 januari 2014 weer. Het advies is hier rekening mee te houden bij de beoordeling van de proeflevering. 
+De proeflevering geeft de toestand van 1 januari 2024 weer. Het advies is hier rekening mee te houden bij de beoordeling van de proeflevering. 
 
 **Downloadlinks**  
 Kaartbladen:  
