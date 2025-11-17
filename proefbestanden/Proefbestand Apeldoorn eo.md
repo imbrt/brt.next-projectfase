@@ -24,10 +24,11 @@ Kaartbladen:
 33fz-top10.tif https://service10.kadaster.nl/gds2/download/public/b29d48e0-5f54-4df4-b865-28d2d1e89811  
 33gn-top10.tif https://service10.kadaster.nl/gds2/download/public/b92f591f-8b64-47fd-ade8-829440922075  
 33hn-top10.tif https://service10.kadaster.nl/gds2/download/public/d26193f0-a1bd-4894-85b0-f3414e63852d  
-De downloadlinks zijn 21 dagen geldig. Geadviseerd wordt de bestanden te downloaden en lokaal op te slaan.  
+
 
 Topografisch bestand:  
-Het topografisch bestand laat nog even op zich wachten. We verwachten deze in de loop van week 47 te leveren.  
+Het topografisch bestand: https://service10.kadaster.nl/gds2/download/public/4eccd168-9bd4-4b6d-ae51-78b1e0d51454    
+De downloadlinks zijn geldig tot en met 4 december 2025. Geadviseerd wordt de bestanden te downloaden en lokaal op te slaan.   
 
 **Nieuwe BRT catalogus en nieuw informatiemodel**  
 De proeflevering is geleverd in het formaat van het nieuwe datamodel. Meer informatie over het nieuwe model is te vinden op github:   
