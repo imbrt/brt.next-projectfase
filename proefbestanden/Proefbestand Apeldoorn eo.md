@@ -32,7 +32,7 @@ De downloadlinks zijn geldig tot en met 4 december 2025. Geadviseerd wordt de be
 
 **Update 1 december 2025 de eerste proeflevering van TOP25**  
 We zijn ondertussen ook zo ver dat we de eerste proeflevering van TOP25 beschikbaar kunnen stellen. 
-De belangrijkste verschillen ten opzichte van de TOP10 zijn: 
+De belangrijkste verschillen ten opzichte van de TOP10 zijn:   
 Er zijn geen voetpaden meer in bebouwd gebied (wel voetgangersgebied)  
 Gebouwen bevatten minder detail   
 Begraafplaatsen zijn als zodanig met een symbool te herkennen op de kaart  
@@ -45,7 +45,7 @@ De volgende kaartbladen zijn beschikbaar
 33e-top25 (33EN + 33EZ) https://service10.kadaster.nl/gds2/download/public/62c716ac-687b-4c34-8c05-aeca0a5c35c8  
 33f-top25 (33FN + 33FZ) https://service10.kadaster.nl/gds2/download/public/7297f488-8bd1-427e-a4dd-ee764ca28d12  
 
-Bij het beoordelen van deze kaartbladen is het belangrijk dat er rekening mee wordt gehouden dat deze kaartbladen bedoeld zijn voor een schaalniveau tot 1:5.000. Dit betekent dat het niet de bedoeling is dat er volledig wordt ingezoomd. 
+Bij het beoordelen van deze kaartbladen is het belangrijk dat er rekening mee wordt gehouden dat deze kaartbladen bedoeld zijn voor schaalniveaus tussen 1:25.000 en 1:5.000. Dit betekent dat het niet de bedoeling is dat er volledig wordt ingezoomd. 
 
 
 **Nieuwe BRT catalogus en nieuw informatiemodel**  
