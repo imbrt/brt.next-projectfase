@@ -1,3 +1,5 @@
+**Storing: vanwege een storing met de generieke downloadservice is het tijdelijk niet mogelijk de proefbestanden te downloaden. We werken hard aan een oplossing**  
+
 **Toelichting proeflevering Apeldoorn en omstreken november 2025**  
 Deze pagina bevat de levering van proefgebied Apeldoorn en omstreken van BRT.Next van november 2025. Deze proeflevering bestaat uit een topografisch bestand (schaal 1:10.000) en een cartografische weergave in de vorm van negen 1:10.000 kaartbladen. 
 
