@@ -1,3 +1,6 @@
+**Update 4 december 2025**  
+We hebben de proeflevering geactualiseerd. De nieuwe tif-bestanden bevatten een georeferentie en zijn hiermee eenvoudig te raadplegen in applicaties zoals Arcgis of QGIS. Dit maakt het eenvoudiger om een vergelijking uit te voeren met de huidige BRT.
+
 **Toelichting proeflevering Apeldoorn en omstreken november 2025**  
 Deze pagina bevat de levering van proefgebied Apeldoorn en omstreken van BRT.Next van november 2025. Deze proeflevering bestaat uit een topografisch bestand (schaal 1:10.000) en een cartografische weergave in de vorm van negen 1:10.000 kaartbladen. 
 
@@ -15,27 +18,26 @@ De proeflevering geeft de toestand van 1 januari 2024 weer. Het advies is hier r
 
 **Downloadlinks**  
 Kaartbladen:  
-33bn-top10.tif https://service10.kadaster.nl/gds2/download/public/61a3f1ac-098c-444b-8b3f-e20d32741b1d  
-33bz-top10.tif https://service10.kadaster.nl/gds2/download/public/051126e7-8e36-44e4-a94c-ceb7958ee04a  
-33dn-top10.tif https://service10.kadaster.nl/gds2/download/public/42fc4221-6f11-434a-b592-1c9a2611bbcb  
-33en-top10.tif https://service10.kadaster.nl/gds2/download/public/732f3ce7-4a93-4880-904e-608785ed57ba  
-33ez-top10.tif https://service10.kadaster.nl/gds2/download/public/562589f7-2946-4033-9760-2925c93e2139  
-33fn-top10.tif https://service10.kadaster.nl/gds2/download/public/6fd1a895-b0e0-4c87-a08a-c8453f055002  
-33fz-top10.tif https://service10.kadaster.nl/gds2/download/public/b29d48e0-5f54-4df4-b865-28d2d1e89811  
-33gn-top10.tif https://service10.kadaster.nl/gds2/download/public/b92f591f-8b64-47fd-ade8-829440922075  
-33hn-top10.tif https://service10.kadaster.nl/gds2/download/public/d26193f0-a1bd-4894-85b0-f3414e63852d  
-
+33BN-geotif https://service10.kadaster.nl/gds2/download/public/4931128e-a92e-4aa1-9477-96150f384314  
+33BZ-geotif  https://service10.kadaster.nl/gds2/download/public/5c0cd35e-e586-42a5-93f3-11508346a658  
+33DN-geotif https://service10.kadaster.nl/gds2/download/public/1c5c2389-ee0a-41cf-8d2c-956d498b26db  
+33EN-geotif  https://service10.kadaster.nl/gds2/download/public/f12a4adc-8a92-4f27-b867-96b3f142cee6  
+33EZ-geotif  https://service10.kadaster.nl/gds2/download/public/840b875c-57fe-4ce6-b949-36826db27133  
+33FN-geotif  https://service10.kadaster.nl/gds2/download/public/c089e431-79d5-4b6a-a7cb-105e84236dd9  
+33FZ-geotif  https://service10.kadaster.nl/gds2/download/public/d3c78fbc-dd2e-4404-8cfc-118ff26eb6c7  
+33GN-geo.tif  https://service10.kadaster.nl/gds2/download/public/a255fb71-2492-42dd-8228-4d999dde3384    
+33HN-geotif  https://service10.kadaster.nl/gds2/download/public/19714565-4a8c-4e95-a670-15e7ddb6facb  
 
 Topografisch bestand:  
-Het topografisch bestand: https://service10.kadaster.nl/gds2/download/public/4eccd168-9bd4-4b6d-ae51-78b1e0d51454    
-De downloadlinks zijn geldig tot en met 4 december 2025. Geadviseerd wordt de bestanden te downloaden en lokaal op te slaan.   
+Het topografisch bestand: https://service10.kadaster.nl/gds2/download/public/db25ae90-c5e7-4913-bf32-3346cb5bf761  
+De downloadlinks zijn geldig tot en met 25 december 2025. Geadviseerd wordt de bestanden te downloaden en lokaal op te slaan.   
 
 **Update 1 december 2025 de eerste proeflevering van TOP25**  
-We zijn ondertussen ook zo ver dat we de eerste proeflevering van TOP25 beschikbaar kunnen stellen. 
+We zijn ondertussen ook zo ver dat we de eerste proeflevering van TOP25 beschikbaar kunnen stellen.  
 De belangrijkste verschillen ten opzichte van de TOP10 zijn:   
 Er zijn geen voetpaden meer in bebouwd gebied (wel voetgangersgebied)  
 Gebouwen bevatten minder detail   
-Begraafplaatsen zijn als zodanig met een symbool te herkennen op de kaart  
+Begraafplaatsen zijn als zodanig te herkennen op de kaart  
 Zonneparken zijn als zodanig te herkennen op de kaart   
  
 De volgende kaartbladen zijn beschikbaar
@@ -47,6 +49,21 @@ De volgende kaartbladen zijn beschikbaar
 
 Bij het beoordelen van deze kaartbladen is het belangrijk dat er rekening mee wordt gehouden dat deze kaartbladen bedoeld zijn voor schaalniveaus tussen 1:25.000 en 1:5.000. Dit betekent dat het niet de bedoeling is dat er volledig wordt ingezoomd. 
 
+**Tips voor het beoordelen van de proeflevering**  
+Om de proeflevering te vergelijken met de huidige BRT en/of luchtfoto’s kan gebruik gemaakt worden van onderstaande webservices en/of bestanden: 
+
+De huidige actuele BRT kan als WMS en/of WMTS geraadpleegd worden:   
+WMS:   https://service.pdok.nl/brt/top10nl/wms/v1_0?service=wms&request=getCapabilities   
+WMTS: https://service.pdok.nl/brt/top10nl/wmts/v1_0?request=GetCapabilities&service=wmts  
+
+Het is ook mogelijk om een vergelijking met de huidige BRT met de actualiteit van 2024 te doen. Hiervoor moet de oude levering wel eerst gedownload.    
+De oude leveringen zijn te downloaden via onderstaande links:   
+TOP25Raster: https://service.pdok.nl/brt/topraster/atom/top25raster.xml  
+TOP10NL: https://service.pdok.nl/brt/topnl/atom/top10nl.xml   
+
+De luchtfoto's van een jaar naar keuze kunnen als WMS en/of WMTS geraadpleegd worden:   
+WMS: https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0?request=GetCapabilities&service=wms  
+WMTS: https://service.pdok.nl/hwh/luchtfotorgb/wmts/v1_0?request=GetCapabilities&service=wmts  
 
 **Nieuwe BRT catalogus en nieuw informatiemodel**  
 De proeflevering is geleverd in het formaat van het nieuwe datamodel. Meer informatie over het nieuwe model is te vinden op github:   
