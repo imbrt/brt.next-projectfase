@@ -85,7 +85,7 @@ Kaartteksten
 Plaatsvlakken   
 Taluds en reliëf  
 
-**Bevindingen, vragen en opmerkingen**
+**Bevindingen, vragen en opmerkingen**  
 Feedback wordt gewaardeerd. Reacties kunnen gestuurd worden naar brt.next@kadaster.nl. We hanteren een reactietijd van één maand. We verwachten hiermee voldoende tijd te geven voor een zorgvuldige beoordeling. 
 
 **Kleurstelling**  
