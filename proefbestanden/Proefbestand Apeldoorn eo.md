@@ -1,5 +1,5 @@
 **Update 4 december 2025**  
-We hebben de proeflevering geactualiseerd. De nieuwe tif-bestanden bevatten een georeferentie en zijn hiermee eenvoudig te raadplegen in applicaties zoals Arcgis of QGIS. Dit maakt het eenvoudiger om een vergelijking uit te voeren met de huidige BRT.
+We hebben de proeflevering geactualiseerd. De nieuwe tif-bestanden bevatten een georeferentie en zijn hiermee eenvoudig te raadplegen in applicaties zoals ArcGIS of QGIS. Dit maakt het eenvoudiger om een vergelijking uit te voeren met de huidige BRT.
 
 **Toelichting proeflevering Apeldoorn en omstreken november 2025**  
 Deze pagina bevat de levering van proefgebied Apeldoorn en omstreken van BRT.Next van november 2025. Deze proeflevering bestaat uit een topografisch bestand (schaal 1:10.000) en een cartografische weergave in de vorm van negen 1:10.000 kaartbladen. 
