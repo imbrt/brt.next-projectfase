@@ -56,7 +56,7 @@ De huidige actuele BRT kan als WMS en/of WMTS geraadpleegd worden:
 WMS:   https://service.pdok.nl/brt/top10nl/wms/v1_0?service=wms&request=getCapabilities   
 WMTS: https://service.pdok.nl/brt/top10nl/wmts/v1_0?request=GetCapabilities&service=wmts  
 
-Het is ook mogelijk om een vergelijking met de huidige BRT met de actualiteit van 2024 te doen. Hiervoor moet de oude levering wel eerst gedownload.    
+Het is ook mogelijk om een vergelijking met de huidige BRT met de actualiteit van 2024 te doen.  Hiervoor moet de oude levering wel eerst gedownload worden.    
 De oude leveringen zijn te downloaden via onderstaande links:   
 TOP25Raster: https://service.pdok.nl/brt/topraster/atom/top25raster.xml  
 TOP10NL: https://service.pdok.nl/brt/topnl/atom/top10nl.xml   
