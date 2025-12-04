@@ -93,9 +93,11 @@ De kleurstelling kan verschillen per applicatie waarmee de GeoTIFFs worden geope
 
 **Wat ontbreekt er in deze proeflevering?**  
 De proeflevering van Apeldoorn en omgeving is niet volledig. Niet alle gegevens die in het nieuwe informatiemodel beschreven staan, zijn terug te vinden in de proeflevering.  
-Wat de gevolgen van een onvolledige proeflevering zijn kunnen wij niet helemaal inschatten. Dit kan ook per gebruiker verschillen. De meest in het oog springende ontbrekende elementen zijn wat ons betreft ontbrekende constructietypes, functionele ruimtes en gebouwtypes. 
+Wat de gevolgen van een onvolledige proeflevering zijn kunnen wij niet helemaal inschatten. Dit kan ook per gebruiker verschillen. De meest in het oog springende ontbrekende elementen zijn wat ons betreft ontbrekende constructietypes, functionele ruimtes en gebouwtypes.   
 Hieronder is een overzicht opgenomen van de ontbrekende onderdelen in de proeflevering van november 2025 van het proefgebied Apeldoorn en omgeving. Een deel ontbreekt omdat de objecten zich niet in het proefgebied bevinden. Een ander deel ontbreekt omdat we nog niet zijn toegekomen aan het verwerken van de informatie in de proeflevering. 
-Dit overzicht verklaart hiermee het ontbreken van objecten in de proeflevering. De bedoeling is dat de proeflevering met dit overzicht in het achterhoofd beter te duiden is. Vragen over de inhoud van de proeflevering kunnen via e-mail gesteld worden door een bericht te sturen naar BRT.Next@kadaster.nl 
+Dit overzicht verklaart hiermee het ontbreken van objecten in de proeflevering. De bedoeling is dat de proeflevering met dit overzicht in het achterhoofd beter te duiden is.  
+
+Vragen over de inhoud van de proeflevering kunnen via e-mail gesteld worden door een bericht te sturen naar BRT.Next@kadaster.nl 
 
 | Naam	|Attribuut |  
 |:---|:---|
