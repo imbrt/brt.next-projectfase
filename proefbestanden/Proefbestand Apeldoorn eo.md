@@ -1,3 +1,6 @@
+**Update 24 december 2025**  
+We hebben de downloadlinks vernieuwd. De bestanden zijn te downloaden tot 14 januari 2026. 
+
 **Update 4 december 2025**  
 We hebben de proeflevering geactualiseerd. De nieuwe tif-bestanden bevatten een georeferentie en zijn hiermee eenvoudig te raadplegen in applicaties zoals ArcGIS of QGIS. Dit maakt het eenvoudiger om een vergelijking uit te voeren met de huidige BRT.
 
@@ -18,19 +21,19 @@ De proeflevering geeft de toestand van 1 januari 2024 weer. Het advies is hier r
 
 **Downloadlinks**  
 Kaartbladen:  
-33BN-geotif https://service10.kadaster.nl/gds2/download/public/4931128e-a92e-4aa1-9477-96150f384314  
-33BZ-geotif  https://service10.kadaster.nl/gds2/download/public/5c0cd35e-e586-42a5-93f3-11508346a658  
-33DN-geotif https://service10.kadaster.nl/gds2/download/public/1c5c2389-ee0a-41cf-8d2c-956d498b26db  
-33EN-geotif  https://service10.kadaster.nl/gds2/download/public/f12a4adc-8a92-4f27-b867-96b3f142cee6  
-33EZ-geotif  https://service10.kadaster.nl/gds2/download/public/840b875c-57fe-4ce6-b949-36826db27133  
-33FN-geotif  https://service10.kadaster.nl/gds2/download/public/c089e431-79d5-4b6a-a7cb-105e84236dd9  
-33FZ-geotif  https://service10.kadaster.nl/gds2/download/public/d3c78fbc-dd2e-4404-8cfc-118ff26eb6c7  
-33GN-geo.tif  https://service10.kadaster.nl/gds2/download/public/a255fb71-2492-42dd-8228-4d999dde3384    
-33HN-geotif  https://service10.kadaster.nl/gds2/download/public/19714565-4a8c-4e95-a670-15e7ddb6facb  
+33BN-geotif [https://service10.kadaster.nl/gds2/download/public/4931128e-a92e-4aa1-9477-96150f384314 ](https://service10.kadaster.nl/gds2/download/public/89b78b5a-4b40-45f9-a070-552c069b8694)   
+33BZ-geotif  [https://service10.kadaster.nl/gds2/download/public/5c0cd35e-e586-42a5-93f3-11508346a658](https://service10.kadaster.nl/gds2/download/public/04c7ff6a-866f-4ba4-b2a6-1533211be427)    
+33DN-geotif [https://service10.kadaster.nl/gds2/download/public/1c5c2389-ee0a-41cf-8d2c-956d498b26db](https://service10.kadaster.nl/gds2/download/public/bf9710bb-76ae-48ca-997b-10b07c566ae6)    
+33EN-geotif  [https://service10.kadaster.nl/gds2/download/public/f12a4adc-8a92-4f27-b867-96b3f142cee6](https://service10.kadaster.nl/gds2/download/public/d4eeab3d-3044-434c-91d2-4cbeb9fb8170)    
+33EZ-geotif  [https://service10.kadaster.nl/gds2/download/public/840b875c-57fe-4ce6-b949-36826db27133](https://service10.kadaster.nl/gds2/download/public/12f10bf5-602b-4333-8419-22a56c8b1f97)    
+33FN-geotif  [https://service10.kadaster.nl/gds2/download/public/c089e431-79d5-4b6a-a7cb-105e84236dd9](https://service10.kadaster.nl/gds2/download/public/8483a848-8a83-4ff1-b2ba-cf1c24ae3d2d)    
+33FZ-geotif  [https://service10.kadaster.nl/gds2/download/public/d3c78fbc-dd2e-4404-8cfc-118ff26eb6c7](https://service10.kadaster.nl/gds2/download/public/803bd55f-e583-46f7-a5d3-2cbce9714c74)    
+33GN-geo.tif  [https://service10.kadaster.nl/gds2/download/public/a255fb71-2492-42dd-8228-4d999dde3384](https://service10.kadaster.nl/gds2/download/public/07c77474-e89b-4064-baba-ceebaa83adb8)      
+33HN-geotif  [https://service10.kadaster.nl/gds2/download/public/19714565-4a8c-4e95-a670-15e7ddb6facb](https://service10.kadaster.nl/gds2/download/public/c8683425-17e9-480e-8ab5-9db43beb0c45)    
 
 Topografisch bestand:  
-Het topografisch bestand: https://service10.kadaster.nl/gds2/download/public/db25ae90-c5e7-4913-bf32-3346cb5bf761  
-De downloadlinks zijn geldig tot en met 25 december 2025. Geadviseerd wordt de bestanden te downloaden en lokaal op te slaan.   
+Het topografisch bestand: [https://service10.kadaster.nl/gds2/download/public/db25ae90-c5e7-4913-bf32-3346cb5bf761](https://service10.kadaster.nl/gds2/download/public/9f497b69-63d6-4424-8648-0e384929ed99)    
+De downloadlinks zijn geldig tot en met 14 januari 2026. Geadviseerd wordt de bestanden te downloaden en lokaal op te slaan.   
 
 **Update 1 december 2025 de eerste proeflevering van TOP25**  
 We zijn ondertussen ook zo ver dat we de eerste proeflevering van TOP25 beschikbaar kunnen stellen.  
@@ -43,9 +46,9 @@ Zonneparken zijn als zodanig te herkennen op de kaart
 De volgende kaartbladen zijn beschikbaar
 <img width="877" height="507" alt="image" src="https://github.com/user-attachments/assets/5bffeca1-d940-41d2-86b8-858d656f0340" />
  
-33b-top25 (33BN + 33BZ) https://service10.kadaster.nl/gds2/download/public/fb8192b7-f04d-4f27-9311-cc7af5c2c974  
-33e-top25 (33EN + 33EZ) https://service10.kadaster.nl/gds2/download/public/62c716ac-687b-4c34-8c05-aeca0a5c35c8  
-33f-top25 (33FN + 33FZ) https://service10.kadaster.nl/gds2/download/public/7297f488-8bd1-427e-a4dd-ee764ca28d12  
+33b-top25 (33BN + 33BZ) [https://service10.kadaster.nl/gds2/download/public/fb8192b7-f04d-4f27-9311-cc7af5c2c974](https://service10.kadaster.nl/gds2/download/public/6c4088ac-aa83-4faa-8078-2a5dd117f6d0)    
+33e-top25 (33EN + 33EZ) [https://service10.kadaster.nl/gds2/download/public/62c716ac-687b-4c34-8c05-aeca0a5c35c8](https://service10.kadaster.nl/gds2/download/public/5cdf7db1-c915-4f4b-8e5e-79e80e505fc8)    
+33f-top25 (33FN + 33FZ) [https://service10.kadaster.nl/gds2/download/public/7297f488-8bd1-427e-a4dd-ee764ca28d12](https://service10.kadaster.nl/gds2/download/public/03b98b4b-122b-428b-9c5c-737a82a6f96d)    
 
 Bij het beoordelen van deze kaartbladen is het belangrijk dat er rekening mee wordt gehouden dat deze kaartbladen bedoeld zijn voor schaalniveaus tussen 1:25.000 en 1:5.000. Dit betekent dat het niet de bedoeling is dat er volledig wordt ingezoomd. 
 
@@ -86,7 +89,7 @@ Plaatsvlakken
 Taluds en reliëf  
 
 **Bevindingen, vragen en opmerkingen**  
-Feedback wordt gewaardeerd. Reacties kunnen gestuurd worden naar brt.next@kadaster.nl. We hanteren een reactietijd van één maand. We verwachten hiermee voldoende tijd te geven voor een zorgvuldige beoordeling. 
+Feedback wordt gewaardeerd. Reacties kunnen gestuurd worden naar brt.next@kadaster.nl. Bij het doorgeven van voorbeeldsituaties ontvangen we graag ook de coördinaten van deze situaties. Dit maakt het makkelijker voor ons om die specifieke situatie te onderzoeken. 
 
 **Kleurstelling**  
 De kleurstelling kan verschillen per applicatie waarmee de GeoTIFFs worden geopend. De kleurstelling komt overeen met het kleurenpalet van de BRT productfamilie zoals jullie gewend zijn.
